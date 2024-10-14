@@ -4,3 +4,5 @@
 O projeto inicial que marca essa nova fase é o clássico "Olá, Mundo!". Estou empolgada com o que vem pela frente e pronta para continuar me aprofundando no universo da programação e desenvolvimento. 🚀
 
 
+Linha inserida diretamente no site! Para testar todas as funcionalidades da ferramenta. 
+
