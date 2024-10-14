@@ -5,5 +5,5 @@ O projeto inicial que marca essa nova fase é o clássico "Olá, Mundo!". Estou 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----> Essa linha inserida diretamente no site! Para testar todas as funcionalidades da ferramenta. 
+---> Essa linha foi inserida diretamente no site! Para testar todas as funcionalidades da ferramenta. 
 
